@@ -6,5 +6,11 @@
     </head>
 
     <body>
+    <?php
+    $idade = 18;
+    $maioridade = ($idade>17)?"Maior de Idade":"Menor de Idade";
+    echo $maioridade;
+
+    ?>
     </body>
 </html>
