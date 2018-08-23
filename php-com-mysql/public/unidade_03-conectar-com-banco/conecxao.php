@@ -12,7 +12,7 @@ if(mysqli_connect_errno()){
 $consulta_categorias = "SELECT * FROM categorias";
 $categorias = mysqli_query($conexao, $consulta_categorias);
 if(!$categorias){
-    die("Falha na consulta ao banco");
+    die("Falha na consultads ao banco");
 }
 
 ?>
