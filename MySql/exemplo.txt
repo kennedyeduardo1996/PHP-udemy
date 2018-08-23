@@ -1,0 +1,102 @@
+//pesquisa valores sem repeti-los
+SELECT DISTINCT tempoentrega FROM produtos
+
+//limita a quantidade listada em ordem de preco		
+SELECT nomeproduto, precounitario, tempoentrega 
+FROM produtos
+ORDER BY precounitario ASC
+LIMIT 10
+
+//filtro 
+SELECT nomeproduto, precounitario, tempoentrega 
+FROM produtos
+WHERE tempoentrega = 5 AND precounitario = 12
+
+//BETWEEN(entre)
+SELECT nomeproduto, precounitario, tempoentrega 
+FROM produtos
+WHERE precounitario BETWEEN 5 AND 12
+ORDER BY precounitario
+
+//filtrar varios valores
+SELECT nomeproduto, precounitario, tempoentrega 
+FROM produtos
+WHERE tempoentrega IN (5,8,30)
+
+//filtrar nome
+SELECT nomeproduto
+FROM produtos
+WHERE nomeproduto LIKE "%mug%"
+
+//maior
+SELECT MAX(precounitario) as maiorpreco
+FROM produtos
+
+//soma do ano
+SELECT SUM(valor_pedido), COUNT(pedidoID) as qtd_pedido
+FROM pedidos
+WHERE year(data_pedido) = '2007'
+
+//no grupo tempoentrega quando produtos tem
+SELECT tempoentrega, COUNT(produtoID) as total
+FROM produtos
+GROUP BY tempoentrega 
+
+//filtro em grupo
+SELECT tempoentrega, COUNT(produtoID) as total
+FROM produtos
+GROUP BY tempoentrega 
+HAVING total > 5
+
+
+
+**relacionamento entre tabelas**
+
+
+//relacionamento entre duas tabelas
+SELECT nomeproduto, nomefornecedor
+FROM produtos, fornecedores
+WHERE produtos.fornecedorID = fornecedores.fornecedorID
+
+//relacionamento correto entre duas tabelas
+SELECT nomeproduto, nomefornecedor
+FROM produtos p
+INNER JOIN fornecedores f
+ON p.fornecedorID = f.fornecedorID
+
+//relacionamento entre 3 tabelas
+SELECT nomeproduto, nomefornecedor, nomecategoria
+FROM produtos p
+INNER JOIN fornecedores f ON p.fornecedorID = f.fornecedorID
+INNER JOIN categorias c ON p.categoriaID = c.categoriaID
+
+//para grupos de duas tabelas tem q usar o apelido da tabela
+SELECT nomecategoria, COUNT(produtoID) as total
+FROM produtos p
+INNER JOIN categorias c ON p.categoriaID = c.categoriaID
+GROUP BY p.categoriaID
+
+
+**INSERIR**
+INSERT INTO estados(nome,sigla) VALUES("Novo Estado", "NE")
+
+**ATUALIZAR**
+UPDATE estados SET nome = 'Velho Estado' WHERE estadoID = 33;
+
+**DELETAR**
+DELETE FROM estados WHERE estadoID = 33;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

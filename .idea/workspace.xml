@@ -2,113 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1257cd4f-8aaa-48e3-85f9-600a6846fe66" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/php-fundamental/unidade_11-formulario/formulario2.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/padrao/inicial.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_04-fundamentosDaLinguagem/inicial.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/array1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/array2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/array3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/array4.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/boleana.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/constante.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/inicial.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/isset.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/null_empty.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/numeros1.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/numeros2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/string2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/strings.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/variaveis.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_06-estruturaDeControle/condicao_if.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_06-estruturaDeControle/condicao_if_else.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_06-estruturaDeControle/condicao_switch.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_06-estruturaDeControle/inicial.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_06-estruturaDeControle/operador_ternario.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_06-estruturaDeControle/operadores.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_07-estrutura-de-repeticao/doWhile.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_07-estrutura-de-repeticao/for.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_07-estrutura-de-repeticao/foreach.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_07-estrutura-de-repeticao/foreach_arrayAssociative.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_07-estrutura-de-repeticao/inicial.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_07-estrutura-de-repeticao/megasena.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_07-estrutura-de-repeticao/while.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_08-funcoes/funcao_mult_parametro.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_08-funcoes/funcao_mult_retorno.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_08-funcoes/funcao_parametro.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_08-funcoes/funcao_retorno.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_08-funcoes/inicial.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_09-formatar-datas/data_completa.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_09-formatar-datas/data_completa_port.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_09-formatar-datas/data_completa_port2.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_09-formatar-datas/diferen_data.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_09-formatar-datas/getdate.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_09-formatar-datas/inicial.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/abacate.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/destino.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/fonte.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/imagens/abacate.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/imagens/laranja.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/imagens/maca.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/inicial.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/laranja.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/maca.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_11-formulario/_css/estilo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_11-formulario/destino.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_11-formulario/formulario.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/unidade_11-formulario/inicial.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/padrao/inicial.php" afterPath="$PROJECT_DIR$/php-fundamental/padrao/inicial.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_04-fundamentosDaLinguagem/inicial.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_04-fundamentosDaLinguagem/inicial.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/array1.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/array1.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/array2.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/array2.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/array3.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/array3.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/array4.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/array4.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/boleana.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/boleana.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/constante.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/constante.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/inicial.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/inicial.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/isset.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/isset.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/null_empty.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/null_empty.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/numeros1.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/numeros1.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/numeros2.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/numeros2.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/string2.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/string2.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/strings.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/strings.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_05-criandoVariaveis/variaveis.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/variaveis.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_06-estruturaDeControle/condicao_if.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_06-estruturaDeControle/condicao_if.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_06-estruturaDeControle/condicao_if_else.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_06-estruturaDeControle/condicao_if_else.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_06-estruturaDeControle/condicao_switch.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_06-estruturaDeControle/condicao_switch.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_06-estruturaDeControle/inicial.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_06-estruturaDeControle/inicial.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_06-estruturaDeControle/operador_ternario.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_06-estruturaDeControle/operador_ternario.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_06-estruturaDeControle/operadores.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_06-estruturaDeControle/operadores.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_07-estrutura-de-repeticao/doWhile.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_07-estrutura-de-repeticao/doWhile.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_07-estrutura-de-repeticao/for.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_07-estrutura-de-repeticao/for.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_07-estrutura-de-repeticao/foreach.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_07-estrutura-de-repeticao/foreach.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_07-estrutura-de-repeticao/foreach_arrayAssociative.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_07-estrutura-de-repeticao/foreach_arrayAssociative.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_07-estrutura-de-repeticao/inicial.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_07-estrutura-de-repeticao/inicial.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_07-estrutura-de-repeticao/megasena.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_07-estrutura-de-repeticao/megasena.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_07-estrutura-de-repeticao/while.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_07-estrutura-de-repeticao/while.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_08-funcoes/funcao_mult_parametro.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_08-funcoes/funcao_mult_parametro.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_08-funcoes/funcao_mult_retorno.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_08-funcoes/funcao_mult_retorno.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_08-funcoes/funcao_parametro.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_08-funcoes/funcao_parametro.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_08-funcoes/funcao_retorno.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_08-funcoes/funcao_retorno.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_08-funcoes/inicial.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_08-funcoes/inicial.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_09-formatar-datas/data_completa.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_09-formatar-datas/data_completa.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_09-formatar-datas/data_completa_port.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_09-formatar-datas/data_completa_port.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_09-formatar-datas/data_completa_port2.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_09-formatar-datas/data_completa_port2.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_09-formatar-datas/diferen_data.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_09-formatar-datas/diferen_data.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_09-formatar-datas/getdate.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_09-formatar-datas/getdate.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_09-formatar-datas/inicial.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_09-formatar-datas/inicial.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/abacate.html" afterPath="$PROJECT_DIR$/php-fundamental/unidade_10-link-com-paramentro/abacate.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/destino.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_10-link-com-paramentro/destino.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/fonte.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_10-link-com-paramentro/fonte.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/imagens/abacate.jpg" afterPath="$PROJECT_DIR$/php-fundamental/unidade_10-link-com-paramentro/imagens/abacate.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/imagens/laranja.jpg" afterPath="$PROJECT_DIR$/php-fundamental/unidade_10-link-com-paramentro/imagens/laranja.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/imagens/maca.jpg" afterPath="$PROJECT_DIR$/php-fundamental/unidade_10-link-com-paramentro/imagens/maca.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/inicial.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_10-link-com-paramentro/inicial.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/laranja.html" afterPath="$PROJECT_DIR$/php-fundamental/unidade_10-link-com-paramentro/laranja.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_10-link-com-paramentro/maca.html" afterPath="$PROJECT_DIR$/php-fundamental/unidade_10-link-com-paramentro/maca.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_11-formulario/_css/estilo.css" afterPath="$PROJECT_DIR$/php-fundamental/unidade_11-formulario/_css/estilo.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_11-formulario/destino.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_11-formulario/destino.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_11-formulario/formulario.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_11-formulario/formulario.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/unidade_11-formulario/inicial.php" afterPath="$PROJECT_DIR$/php-fundamental/unidade_11-formulario/inicial.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -135,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/php-fundamental/unidade_11-formulario/formulario2.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="174">
-              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -223,8 +116,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -241,8 +132,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-udemy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP-udemy" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -395,7 +298,8 @@
       <workItem from="1534869484895" duration="6712000" />
       <workItem from="1534876237624" duration="6745000" />
       <workItem from="1534955996489" duration="11504000" />
-      <workItem from="1535042155294" duration="1253000" />
+      <workItem from="1535042155294" duration="1893000" />
+      <workItem from="1535053057823" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="sucesso">
       <created>1534795204784</created>
@@ -495,33 +399,40 @@
       <option name="project" value="LOCAL" />
       <updated>1534969633014</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="final do fundamental">
+      <created>1535043441616</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1535043441616</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34797000" />
+    <option name="totallyTimeSpent" value="35476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2692802" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27249357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987013" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987013" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -565,7 +476,8 @@
     <MESSAGE value="fim das datas" />
     <MESSAGE value="fim dos links" />
     <MESSAGE value="trabalhando na unidade 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="trabalhando na unidade 11" />
+    <MESSAGE value="final do fundamental" />
+    <option name="LAST_COMMIT_MESSAGE" value="final do fundamental" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -845,7 +757,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,7 +771,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-78">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -875,7 +785,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
           <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -883,7 +792,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="104">
           <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -898,7 +806,7 @@
     <entry file="file://$PROJECT_DIR$/php-fundamental/unidade_11-formulario/formulario2.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
         </state>
       </provider>
