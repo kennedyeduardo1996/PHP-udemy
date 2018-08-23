@@ -15,8 +15,8 @@
     <?php
     $nome = isset($_POST["nome"])?$_POST["nome"]:"sem definição";
     $email = isset($_POST["email"])?$_POST["email"]:"sem definição";
-    echo "Meu nome é ".$nome."<br>";
-    echo "Meu email é ".$email."<br>";
+    echo "Meu nome : ".$nome."<br>";
+    echo "Meu email : ".$email."<br>";
     ?>
     </body>
 </html>
