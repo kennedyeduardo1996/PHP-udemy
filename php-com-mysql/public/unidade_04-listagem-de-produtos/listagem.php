@@ -1,5 +1,5 @@
 <?php require_once("../../conexao/conexao.php");
-$query =$con->$query("SELECT produtoID, nomeproduto, tempoentrega, precounitario, imagempequena FROM produtos;");
+$query = $con->query("SELECT produtoID, nomeproduto, tempoentrega, precounitario, imagempequena FROM produtos;");
 $produtos = $query->fetchAll(PDO::FETCH_ASSOC);
 ?>
 
@@ -19,6 +19,15 @@ $produtos = $query->fetchAll(PDO::FETCH_ASSOC);
     ?>
 
     <main>
+        <?php
+        foreach($produtos as $result) { ?>
+            <ul>
+                <li><?= $result["nomeproduto"] ?></li>
+                <li><?= $result["tempoentrega"] ?></li>
+                <li><?= $result["precounitario"] ?></li>
+                <li><img src="<?= $result["precounitario"] ?>" alt=""></li>
+            </ul>
+        <?php } ?>
 
     </main>
 
