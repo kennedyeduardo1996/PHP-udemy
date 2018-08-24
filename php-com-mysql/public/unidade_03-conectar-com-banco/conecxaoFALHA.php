@@ -1,4 +1,15 @@
 <?php
+//define('SERVER', 'localhost');
+//define('BANCO', 'andes');
+//define('SENHA', '');
+//define('USUARIO', 'root');
+//try {
+//    $conexao = new PDO('mysql:host=' . SERVER . '; dbname=' . BANCO, USUARIO, SENHA);
+//} catch(PDOException $e) {
+//    echo "Erro gerado" . $e->getMessage();
+//}
+
+
 $servidor = "localhost";
 $usuario = "root";
 $senha = "";
@@ -25,7 +36,7 @@ if(!$categorias){
 
     <body>
     </body>
-    <?php
+<?php
     mysql_close($conexao);
-    ?>
+//?>
 </html>
