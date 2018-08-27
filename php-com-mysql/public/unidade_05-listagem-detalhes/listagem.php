@@ -1,3 +1,4 @@
+
 <?php require_once("../../conexao/conexao.php");
 //determinar localidade
 setlocale(LC_ALL, 'pt_BR', 'pt_BR.utf-8', 'portuguese');
@@ -28,7 +29,9 @@ $produtos = $query->fetchAll(PDO::FETCH_ASSOC);
             foreach($produtos as $result) { ?>
                 <ul>
                     <li class="imagem">
-                        <img src="<?= $result["imagempequena"] ?>">
+                        <a href="detalhe.php?codigo=<?=$result['produtoID'] ?>">
+                            <img src="<?= $result["imagempequena"] ?>">
+                        </a>
                     </li>
                     <li><h3><?= $result["nomeproduto"] ?></h3></li>
                     <li>Tempo de Entrega: <?= $result["tempoentrega"] ?></li>
