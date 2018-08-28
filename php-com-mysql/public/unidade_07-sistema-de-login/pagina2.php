@@ -1,4 +1,7 @@
-<?php require_once("../../conexao/conexao.php"); ?>
+<?php require_once("../../conexao/conexao.php");
+session_start();
+
+?>
 
 <!doctype html>
 <html>
@@ -18,7 +21,17 @@
             </div>
         </header>
         
-        <main>  
+        <main>
+            <?php
+            if(isset($_SESSION["usuario"])){
+                echo $_SESSION["usuario"];
+            }else{
+                header("pagina1.php");
+
+            }
+
+            ?>
+            <a href="logout.php">Logout</a>
             
         </main>
 
@@ -32,5 +45,5 @@
 
 <?php
     // Fechar conexao
-    mysqli_close($conecta);
+$con = null;
 ?>
