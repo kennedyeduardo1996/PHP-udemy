@@ -1,27 +1,39 @@
 <?php require_once("../../conexao/conexao.php"); ?>
 
-<!doctype html>
-<html>
+    <!doctype html>
+    <html>
     <head>
         <meta charset="UTF-8">
-        <title>Curso PHP INTEGRACAO</title>
-        
+        <title>Curso PHP FUNDAMENTAL</title>
+
         <!-- estilo -->
         <link href="_css/estilo.css" rel="stylesheet">
+        <link href="_css/login.css" rel="stylesheet">
     </head>
 
     <body>
-        <?php include_once("_incluir/topo.php"); ?>
-        
-        <main>  
-            
-        </main>
+    <?php
+    include_once("_incluir/topo.php");
 
-        <?php include_once("_incluir/rodape.php"); ?>  
+    ?>
+    <header>
+        <div id="header_central">
+            <img src="assets/logo_andes.gif">
+            <img src="assets/text_bnwcoffee.gif">
+        </div>
+    </header>
+
+    <main>
+
+    </main>
+    <?php
+    include_once("_incluir/rodape.php");
+
+    ?>
     </body>
-</html>
+    </html>
 
 <?php
-    // Fechar conexao
-    mysqli_close($conecta);
+// Fechar conexao
+$con = null;
 ?>
