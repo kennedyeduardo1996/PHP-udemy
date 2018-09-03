@@ -27,6 +27,8 @@ session_start();
 
         //Destrói todas var de sessao
         session_destroy();
+        header("Location: login.php");
+
 
         ?>
 

@@ -13,9 +13,9 @@
                 foreach($nomecompleto as $nome){
             ?>
             <div id="header_saudacao">
-                <h5>Bem vindo, <?=$nome["nomecompleto"] ?></h5>
+                <h5>Bem vindo, <?=$nome["nomecompleto"] ?> <a href="logout.php">sair</a></h5>
             </div>
-                    <a href="logout.php"><input type="button" value="Logout"></a>
+
             <?php
         }}
         ?>

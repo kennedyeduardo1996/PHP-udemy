@@ -1,11 +1,15 @@
 <?php require_once("../../conexao/conexao.php");
+//teste de segurança
 session_start();
 if(!isset($_SESSION["user_portal"])) {
     header("Location: login.php");
 }
+//fim do teste de segurança
 
 //determinar localidade
 setlocale(LC_ALL, 'pt_BR', 'pt_BR.utf-8', 'portuguese');
+
+//pesquisa por produto
 if(isset($_GET["produto_pesquisa"])) {
     $pesquisa = "%" . $_GET["produto_pesquisa"] . "%";
     $sql = "SELECT produtoID, nomeproduto, tempoentrega, precounitario, imagempequena FROM produtos WHERE nomeproduto LIKE :pesquisa ;";
@@ -14,7 +18,6 @@ if(isset($_GET["produto_pesquisa"])) {
 } else {
     $sql = "SELECT produtoID, nomeproduto, tempoentrega, precounitario, imagempequena FROM produtos;";
     $produtos = $con->prepare($sql);
-
 }
 
 $resultado = $produtos->execute();
