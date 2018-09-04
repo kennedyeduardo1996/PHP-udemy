@@ -1,29 +1,24 @@
 <header>
     <div id="header_central">
         <?php
-            if ( isset($_SESSION["user_portal"])  ) {
-                $user = $_SESSION["user_portal"];
-                
-                $saudacao = "SELECT nomecompleto ";
-                $saudacao .= "FROM clientes ";
-                $saudacao .= "WHERE clienteID = {$user} ";
-                
-                $saudacao_login = mysqli_query($conecta,$saudacao);
-                if(!$saudacao_login) {
-                    die("Falha no banco");   
-                }
-                
-                $saudacao_login = mysqli_fetch_assoc($saudacao_login);
-                $nome = $saudacao_login["nomecompleto"];
-                
+
+        if(isset($_SESSION['user_portal'])) {
+            $idser = $_SESSION['user_portal'];
+            $sql = "SELECT nomecompleto FROM clientes WHERE clienteID = :iduser";
+            $stmt = $con->prepare($sql);
+            $stmt->bindParam(':iduser', $idser);
+            //retorna 1 se a consulta foi realizada
+            $resultado = $stmt->execute();
+            $nomecompleto = $stmt->fetchAll(PDO::FETCH_ASSOC);
+            foreach($nomecompleto as $nome){
+                ?>
+                <div id="header_saudacao">
+                    <h5>Bem vindo, <?=$nome["nomecompleto"] ?> <a href="logout.php">sair</a></h5>
+                </div>
+
+                <?php
+            }}
         ?>
-            <div id="header_saudacao"><h5>Bem vindo, <?php echo $nome ?> - <a href="sair.php">Sair</a></h5></div>
-        <?php
-            }
-        ?>
-        
-        
-        
         <img src="assets/logo_andes.gif">
         <img src="assets/text_bnwcoffee.gif">
     </div>
