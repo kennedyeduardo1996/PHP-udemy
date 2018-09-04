@@ -64,25 +64,15 @@ if(isset($_GET["codigo"])) {
                             <?= $tranport["nome"] ?>
                         </option>
 
-
                     <?php
                     $meuestado = $tranport['estadoID'];
                     $lista_estados = $lista_estados->fetchAll(PDO::FETCH_ASSOC);
                     foreach($lista_estados as $linha) {
-                        if($linha["estadoID"] == $meuestado){
                         ?>
-                        <option value="<?php echo $linha["estadoID"]; ?>" selected>
+                        <option value="<?php echo $linha["estadoID"]; ?>" <?= ($linha["estadoID"] == $meuestado)?"selected":"" ?> >
                             <?php echo($linha["nome"]); ?>
                         </option>
                         <?php
-                        }else{
-                            ?>
-                            <option value="<?php echo $linha["estadoID"]  ; ?>">
-                                <?php echo($linha["nome"]); ?>
-                            </option>
-                            <?php
-
-                        }
                     }
                     ?>
                 </select><br>
@@ -90,7 +80,7 @@ if(isset($_GET["codigo"])) {
                 <input type="text" name="cep" id="cep" value="<?= $tranport['cep'] ?>"><br>
                 <label for="cnpj">CNPJ</label>
                 <input type="text" name="cnpj" id="cnpj" value="<?= $tranport['cnpj'] ?>"><br>
-                <input type="submit" value="inserir">
+                <input type="submit" value="Atualizar">
             </form>
         </div>
     </main>
