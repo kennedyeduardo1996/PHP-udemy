@@ -37,10 +37,12 @@ SELECT SUM(valor_pedido), COUNT(pedidoID) as qtd_pedido
 FROM pedidos
 WHERE year(data_pedido) = '2007'
 
+
 //no grupo tempoentrega quando produtos tem
 SELECT tempoentrega, COUNT(produtoID) as total
 FROM produtos
 GROUP BY tempoentrega 
+
 
 //filtro em grupo
 SELECT tempoentrega, COUNT(produtoID) as total
@@ -49,14 +51,13 @@ GROUP BY tempoentrega
 HAVING total > 5
 
 
-
 **relacionamento entre tabelas**
-
 
 //relacionamento entre duas tabelas
 SELECT nomeproduto, nomefornecedor
 FROM produtos, fornecedores
 WHERE produtos.fornecedorID = fornecedores.fornecedorID
+
 
 //relacionamento correto entre duas tabelas
 SELECT nomeproduto, nomefornecedor
@@ -64,11 +65,13 @@ FROM produtos p
 INNER JOIN fornecedores f
 ON p.fornecedorID = f.fornecedorID
 
+
 //relacionamento entre 3 tabelas
 SELECT nomeproduto, nomefornecedor, nomecategoria
 FROM produtos p
 INNER JOIN fornecedores f ON p.fornecedorID = f.fornecedorID
 INNER JOIN categorias c ON p.categoriaID = c.categoriaID
+
 
 //para grupos de duas tabelas tem q usar o apelido da tabela
 SELECT nomecategoria, COUNT(produtoID) as total

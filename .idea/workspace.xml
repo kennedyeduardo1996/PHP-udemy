@@ -1,203 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1257cd4f-8aaa-48e3-85f9-600a6846fe66" name="Default" comment="php avancado inserir">
-      <change afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/_incluir/topo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/alteracao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/exclusao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/inicial.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/listagem.php" afterDir="false" />
+    <list default="true" id="1257cd4f-8aaa-48e3-85f9-600a6846fe66" name="Default" comment="php avancado excluir ok">
+      <change afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_11-upload-de-arquivo/upload.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/_css/alteracao.css" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/_css/alteracao.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/_css/crud.css" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/_css/crud.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/_css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/_css/estilo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/_css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/_css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/_css/produto_detalhe.css" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/_css/produto_detalhe.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/_css/produto_pesquisa.css" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/_css/produto_pesquisa.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/_css/produtos.css" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/_css/produtos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/_incluir/rodape.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/_incluir/rodape.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/_incluir/topo.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/_incluir/topo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/alteracao.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/alteracao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/assets/botao_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/assets/botao_search.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/assets/fig_botao_login.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/assets/fig_botao_login.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/assets/fig_franquias_listagem.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/assets/fig_franquias_listagem.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/assets/fig_inserir_usuario.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/assets/fig_inserir_usuario.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/assets/fig_lista_produtos.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/assets/fig_lista_produtos.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/assets/fig_login_acesso.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/assets/fig_login_acesso.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/assets/fig_pesquisa_produtos.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/assets/fig_pesquisa_produtos.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/assets/fig_produtos.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/assets/fig_produtos.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/assets/logo_andes.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/assets/logo_andes.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/assets/text_bnwcoffee.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/assets/text_bnwcoffee.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/frm-next.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/frm-next.GIF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/frm-previous.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/frm-previous.GIF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Baseballcap_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Baseballcap_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Baseballcap_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Baseballcap_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Baseballcap_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Baseballcap_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/BlondBlend_Group_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/BlondBlend_Group_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/BlondBlend_Group_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/BlondBlend_Group_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/BlondBlend_Group_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/BlondBlend_Group_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/BorderBlend_Group_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/BorderBlend_Group_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/BorderBlend_Group_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/BorderBlend_Group_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/BorderBlend_Group_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/BorderBlend_Group_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/BraveBlend_Group_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/BraveBlend_Group_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/BraveBlend_Group_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/BraveBlend_Group_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/BraveBlend_Group_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/BraveBlend_Group_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/BreathMints_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/BreathMints_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/BreathMints_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/BreathMints_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/BreathMints_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/BreathMints_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Carob_Small.jpg.LCK" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Carob_Small.jpg.LCK" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/CeramicMug_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/CeramicMug_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/CeramicMug_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/CeramicMug_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/CeramicMug_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/CeramicMug_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/ChocolateCoffeBeans_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/ChocolateCoffeBeans_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/ChocolateCoffeBeans_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/ChocolateCoffeBeans_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/ChocolateCoffeBeans_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/ChocolateCoffeBeans_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/ChocolateMochaBars_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/ChocolateMochaBars_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/ChocolateMochaBars_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/ChocolateMochaBars_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/ChocolateMochaBars_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/ChocolateMochaBars_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/EarlGreyTea_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/EarlGreyTea_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/EarlGreyTea_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/EarlGreyTea_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/EarlGreyTea_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/EarlGreyTea_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/HoneyBiscotti_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/HoneyBiscotti_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/HoneyBiscotti_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/HoneyBiscotti_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/HoneyBiscotti_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/HoneyBiscotti_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/HypeFilters_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/HypeFilters_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/HypeFilters_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/HypeFilters_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/HypeFilters_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/HypeFilters_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/MusicCD_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/MusicCD_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/MusicCD_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/MusicCD_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/MusicCD_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/MusicCD_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/NonDairyCreamer_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/NonDairyCreamer_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/NonDairyCreamer_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/NonDairyCreamer_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/NonDairyCreamer_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/NonDairyCreamer_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/PlasticMug_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/PlasticMug_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/PlasticMug_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/PlasticMug_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/PlasticMug_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/PlasticMug_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/SteelMug_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/SteelMug_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/SteelMug_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/SteelMug_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/SteelMug_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/SteelMug_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Sugar_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Sugar_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Sugar_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Sugar_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Sugar_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Sugar_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/SummerBlend_Group_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/SummerBlend_Group_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/SummerBlend_Group_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/SummerBlend_Group_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/SummerBlend_Group_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/SummerBlend_Group_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Sweatshirt_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Sweatshirt_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Sweatshirt_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Sweatshirt_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Sweatshirt_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Sweatshirt_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/TShirt_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/TShirt_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/TShirt_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/TShirt_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/TShirt_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/TShirt_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Thermometer_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Thermometer_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Thermometer_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Thermometer_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Thermometer_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Thermometer_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Toke_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Toke_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Toke_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Toke_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Toke_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Toke_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/WinterBlend_Group_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/WinterBlend_Group_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/WinterBlend_Group_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/WinterBlend_Group_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/WinterBlend_Group_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/WinterBlend_Group_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Year1999Blend_Group_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Year1999Blend_Group_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Year1999Blend_Group_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Year1999Blend_Group_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/images/product_images/Year1999Blend_Group_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/images/product_images/Year1999Blend_Group_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/inicial.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/inicial.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_09/listagem.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/listagem.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/_css/alteracao.css" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/_css/alteracao.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/_css/crud.css" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/_css/crud.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/_css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/_css/estilo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/_css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/_css/login.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/_css/produto_detalhe.css" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/_css/produto_detalhe.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/_css/produto_pesquisa.css" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/_css/produto_pesquisa.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/_css/produtos.css" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/_css/produtos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/_incluir/rodape.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/_incluir/rodape.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/_incluir/topo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/alteracao.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/assets/botao_search.png" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/assets/botao_search.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/assets/fig_botao_login.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/assets/fig_botao_login.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/assets/fig_franquias_listagem.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/assets/fig_franquias_listagem.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/assets/fig_inserir_usuario.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/assets/fig_inserir_usuario.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/assets/fig_lista_produtos.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/assets/fig_lista_produtos.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/assets/fig_login_acesso.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/assets/fig_login_acesso.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/assets/fig_pesquisa_produtos.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/assets/fig_pesquisa_produtos.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/assets/fig_produtos.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/assets/fig_produtos.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/assets/logo_andes.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/assets/logo_andes.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/assets/text_bnwcoffee.gif" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/assets/text_bnwcoffee.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/frm-next.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/frm-next.GIF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/frm-previous.GIF" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/frm-previous.GIF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Baseballcap_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Baseballcap_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Baseballcap_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Baseballcap_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Baseballcap_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Baseballcap_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/BlondBlend_Group_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/BlondBlend_Group_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/BlondBlend_Group_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/BlondBlend_Group_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/BlondBlend_Group_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/BlondBlend_Group_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/BorderBlend_Group_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/BorderBlend_Group_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/BorderBlend_Group_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/BorderBlend_Group_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/BorderBlend_Group_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/BorderBlend_Group_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/BraveBlend_Group_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/BraveBlend_Group_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/BraveBlend_Group_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/BraveBlend_Group_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/BraveBlend_Group_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/BraveBlend_Group_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/BreathMints_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/BreathMints_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/BreathMints_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/BreathMints_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/BreathMints_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/BreathMints_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Carob_Small.jpg.LCK" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Carob_Small.jpg.LCK" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/CeramicMug_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/CeramicMug_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/CeramicMug_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/CeramicMug_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/CeramicMug_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/CeramicMug_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/ChocolateCoffeBeans_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/ChocolateCoffeBeans_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/ChocolateCoffeBeans_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/ChocolateCoffeBeans_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/ChocolateCoffeBeans_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/ChocolateCoffeBeans_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/ChocolateMochaBars_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/ChocolateMochaBars_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/ChocolateMochaBars_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/ChocolateMochaBars_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/ChocolateMochaBars_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/ChocolateMochaBars_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/EarlGreyTea_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/EarlGreyTea_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/EarlGreyTea_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/EarlGreyTea_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/EarlGreyTea_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/EarlGreyTea_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/HoneyBiscotti_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/HoneyBiscotti_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/HoneyBiscotti_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/HoneyBiscotti_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/HoneyBiscotti_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/HoneyBiscotti_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/HypeFilters_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/HypeFilters_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/HypeFilters_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/HypeFilters_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/HypeFilters_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/HypeFilters_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/MusicCD_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/MusicCD_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/MusicCD_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/MusicCD_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/MusicCD_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/MusicCD_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/NonDairyCreamer_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/NonDairyCreamer_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/NonDairyCreamer_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/NonDairyCreamer_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/NonDairyCreamer_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/NonDairyCreamer_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/PlasticMug_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/PlasticMug_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/PlasticMug_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/PlasticMug_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/PlasticMug_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/PlasticMug_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/SteelMug_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/SteelMug_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/SteelMug_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/SteelMug_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/SteelMug_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/SteelMug_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Sugar_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Sugar_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Sugar_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Sugar_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Sugar_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Sugar_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/SummerBlend_Group_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/SummerBlend_Group_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/SummerBlend_Group_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/SummerBlend_Group_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/SummerBlend_Group_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/SummerBlend_Group_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Sweatshirt_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Sweatshirt_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Sweatshirt_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Sweatshirt_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Sweatshirt_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Sweatshirt_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/TShirt_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/TShirt_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/TShirt_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/TShirt_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/TShirt_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/TShirt_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Thermometer_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Thermometer_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Thermometer_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Thermometer_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Thermometer_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Thermometer_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Toke_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Toke_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Toke_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Toke_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Toke_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Toke_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/WinterBlend_Group_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/WinterBlend_Group_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/WinterBlend_Group_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/WinterBlend_Group_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/WinterBlend_Group_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/WinterBlend_Group_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Year1999Blend_Group_Big.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Year1999Blend_Group_Big.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Year1999Blend_Group_Small.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Year1999Blend_Group_Small.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/images/product_images/Year1999Blend_Group_Smallb.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/images/product_images/Year1999Blend_Group_Smallb.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/inicial.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_10/listagem.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySql/exemplo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MySql/exemplo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-com-mysql/public/unidade_11-upload-de-arquivo/inicial.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-com-mysql/public/unidade_11-upload-de-arquivo/inicial.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -221,14 +29,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="php" value="12" />
+          <entry key="php" value="15" />
           <entry key="rnc" value="1" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="12" />
+          <entry key="PHP" value="15" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="RNG Compact" value="1" />
         </counts>
@@ -236,11 +44,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="php" value="406" />
+          <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PHP" value="406" />
+          <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.php.composer.command.options" />
@@ -254,38 +64,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php-com-mysql/public/unidade_09-pagina-de-alteracao/inicial.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" selection-start-line="18" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/listagem.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1819">
-              <caret line="107" column="38" selection-start-line="107" selection-start-column="38" selection-end-line="107" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/exclusao.php">
+        <entry file="file://$PROJECT_DIR$/php-com-mysql/public/unidade_11-upload-de-arquivo/upload.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="58" selection-start-line="58" selection-end-line="58" />
+            <state relative-caret-position="136">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MySql/exemplo.txt">
+        <entry file="file://$PROJECT_DIR$/php-com-mysql/public/unidade_11-upload-de-arquivo/inicial.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1411">
-              <caret line="83" selection-start-line="83" selection-end-line="83" selection-end-column="61" />
+            <state relative-caret-position="561">
+              <caret line="33" column="2" selection-end-line="33" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -312,9 +104,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/unidade_08-funcoes/funcao_mult_retorno.php" />
-        <option value="$PROJECT_DIR$/unidade_09-formatar-datas/getdate.php" />
-        <option value="$PROJECT_DIR$/unidade_09-formatar-datas/data_completa.php" />
         <option value="$PROJECT_DIR$/unidade_09-formatar-datas/data_completa_port.php" />
         <option value="$PROJECT_DIR$/unidade_09-formatar-datas/data_completa_port2.php" />
         <option value="$PROJECT_DIR$/unidade_09-formatar-datas/diferen_data.php" />
@@ -363,6 +152,9 @@
         <option value="$PROJECT_DIR$/php-com-mysql/public/unidade_10/listagem.php" />
         <option value="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/listagem.php" />
         <option value="$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/exclusao.php" />
+        <option value="$PROJECT_DIR$/php-com-mysql/public/unidade_11-upload-de-arquivo/inicial.php" />
+        <option value="$PROJECT_DIR$/php-com-mysql/public/unidade_11-upload-de-arquivo/upload.php" />
+        <option value="$PROJECT_DIR$/MySql/exemplo.txt" />
       </list>
     </option>
   </component>
@@ -375,10 +167,10 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-60" />
+    <option name="y" value="170" />
+    <option name="width" value="1014" />
     <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -410,6 +202,20 @@
               <item name="PHP-udemy" type="462c0819:PsiDirectoryNode" />
               <item name="php-com-mysql" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PHP-udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHP-udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="php-com-mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="unidade_10-pagina-de-exclusao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PHP-udemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PHP-udemy" type="462c0819:PsiDirectoryNode" />
+              <item name="php-com-mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="unidade_11-upload-de-arquivo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -533,7 +339,7 @@
       <workItem from="1537378819286" duration="4000" />
       <workItem from="1537466508228" duration="547000" />
       <workItem from="1537548522219" duration="1867000" />
-      <workItem from="1539885341824" duration="268000" />
+      <workItem from="1539885341824" duration="2676000" />
     </task>
     <task id="LOCAL-00001" summary="sucesso">
       <created>1534795204784</created>
@@ -731,14 +537,28 @@
       <option name="project" value="LOCAL" />
       <updated>1536093428631</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="php avancado excluir ok">
+      <created>1539885661233</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1539885661233</updated>
+    </task>
+    <task id="LOCAL-00030" summary="php avancado excluir ok">
+      <created>1539885717348</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1539885717348</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107048000" />
+    <option name="totallyTimeSpent" value="109456000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20565553" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -791,7 +611,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fim da unidade 5" />
     <MESSAGE value="fim da unidade 6 - estrutura de controle" />
     <MESSAGE value="estrutura de repetição" />
     <MESSAGE value="Mudar arquivo de lugar" />
@@ -816,7 +635,8 @@
     <MESSAGE value="php avancado un 9" />
     <MESSAGE value="php avancado atualizando o banco" />
     <MESSAGE value="php avancado inserir" />
-    <option name="LAST_COMMIT_MESSAGE" value="php avancado inserir" />
+    <MESSAGE value="php avancado excluir ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="php avancado excluir ok" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -832,20 +652,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/php-fundamental/unidade_05-criandoVariaveis/array4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-fundamental/unidade_07-estrutura-de-repeticao/foreach.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php-fundamental/unidade_07-estrutura-de-repeticao/for.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -1103,9 +909,6 @@
     <entry file="file://$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/_incluir/rodape.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/inicial.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
@@ -1135,17 +938,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MySql/exemplo.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1411">
-          <caret line="83" selection-start-line="83" selection-end-line="83" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/exclusao.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-com-mysql/public/unidade_10-pagina-de-exclusao/inicial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-com-mysql/public/unidade_11-upload-de-arquivo/inicial.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="2" selection-end-line="33" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MySql/exemplo.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-608">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-com-mysql/public/unidade_11-upload-de-arquivo/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
