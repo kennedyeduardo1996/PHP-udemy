@@ -8,7 +8,7 @@ if(!$result) {
 }
 
 
-//Consulta a tabela  de transportadora
+//Consulta a tabela  de transportadora do banco
 if(isset($_GET["codigo"])) {
     $id = $_GET["codigo"];
     $sql = "SELECT t.*, e.nome FROM transportadoras t INNER JOIN estados e ON t.estadoID = e.estadoID WHERE transportadoraID = :id ;";
@@ -21,6 +21,38 @@ if(isset($_GET["codigo"])) {
     }
 } else {
     header("Location: listagem.php");
+}
+
+//atualizar no banco de dados
+if(isset($_POST["nometransportadora"])) {
+    $nome = $_POST["nometransportadora"];
+    $endereco = $_POST["endereco"];
+    $cidade = $_POST["cidade"];
+    $estado = $_POST["estados"];
+    $cep = $_POST["cep"];
+    $cnpj = $_POST["cnpj"];
+    $telefone = $_POST["telefone"];
+    $tID = $_POST["transportadoraID"];
+
+    $insert = "UPDATE transportadoras SET nometransportadora = :nome, endereco = :endereco, cidade = :cidade, estadoID = :estado, cep = :cep,cnpj = :cnpj,telefone = :telefone WHERE transportadoraID = :transportadoraID";
+    $inserir = $con->prepare($insert);
+    $inserir->bindParam(':nome', $nome);
+    $inserir->bindParam(':endereco', $endereco);
+    $inserir->bindParam(':cidade', $cidade);
+    $inserir->bindParam(':estado', $estado);
+    $inserir->bindParam(':cep', $cep);
+    $inserir->bindParam(':cnpj', $cnpj);
+    $inserir->bindParam(':telefone', $telefone);
+    $inserir->bindParam(':transportadoraID', $tID);
+    $operacao_inserir = $inserir->execute();
+
+
+    if(!$operacao_inserir) {
+        die("Erro no banco");
+    }else {
+        header("Location: listagem.php");
+    }
+
 }
 
 ?>
